@@ -51,7 +51,7 @@ For any further information, collaborations, or inquiries, feel free to reach ou
 - Website: https://ashutosh786palhare.github.io
 
 ## Credit
-This Website is inspired by [CodeWithSadee](https://github.com/codewithsadee) Big thanks to @CodeWithSadee
+This Website is Developed by [CodeWithSadee](https://github.com/codewithsadee) Big thanks to @CodeWithSadee
 
 ## Thank-You
 **Thank you for visiting my repository and exploring my portfolio website!**
